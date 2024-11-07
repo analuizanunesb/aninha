@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filme',
+    'Qual o melhor?',
+    'Enrolados'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Série',
+    'Qual a melhor?',
+    'Coração Marcado'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Desenho',
+    'Qual é o mais legal?',
+    'Moranguinho: Aventuras em tutti-frutti'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Documentário',
+    'Qual devo assistir?',
+    'Coração de pai - São José'
+)
+
+criaCartao(
+    'Cor',
+    'Qual a mais bela?',
+    'Azul marinho'
+)
+
+criaCartao(
+    'Comida',
+    'Qual a mais saborosa?',
+    'Pizza'
 )
